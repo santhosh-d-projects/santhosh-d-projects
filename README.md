@@ -1,7 +1,7 @@
 # Hi 👋, I'm Santhosh Devappa Dubari
 **A passionate Cloud Engineer || DevOps Engineer || Software Developer**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **santhoshsd3664@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** My mini Project
 - 🌱 **I’m currently learning:** AWS cloud
